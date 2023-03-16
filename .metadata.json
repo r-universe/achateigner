@@ -1,0 +1,10 @@
+[
+  {
+    "package": "anyLib",
+    "oncran": true
+  },
+  {
+    "package": "apercu",
+    "oncran": true
+  }
+]
