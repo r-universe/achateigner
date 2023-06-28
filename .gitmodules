@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "anyLib"]
 	path = anyLib
 	url = https://github.com/achateigner/anylib
-	shallow = true
-	registered = true
 [submodule "apercu"]
 	path = apercu
 	url = https://github.com/achateigner/apercu
-	shallow = true
-	registered = true
